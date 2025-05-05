@@ -64,10 +64,10 @@ def get_location_name(latitude, longitude):
 
 # Function to send an alert with location information (unchanged)
 def send_alert(image_path=None):
-    TWILIO_ACCOUNT_SID = "AC2e3662b921379654f19a7fdb8d608f3b"
-    TWILIO_AUTH_TOKEN = "c32e759f9c631d81a2ca9f09394bc5bf"
-    TWILIO_PHONE_NUMBER = "+17174524635"
-    RECIPIENT_PHONE_NUMBER = "+916302210655"
+    TWILIO_ACCOUNT_SID = "Twilio Account Sid"
+    TWILIO_AUTH_TOKEN = "Twilio Auth Token"
+    TWILIO_PHONE_NUMBER = "Your Twilio Phone Number"
+    RECIPIENT_PHONE_NUMBER = "Recipient Phone Number"
 
     location_info = "Location data unavailable"
     if image_path:
