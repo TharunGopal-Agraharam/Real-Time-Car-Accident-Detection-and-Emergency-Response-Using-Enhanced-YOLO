@@ -35,3 +35,25 @@ git clone <https://github.com/TharunGopal-Agraharam/Real-Time-Car-Accident-Detec
 cd <https://github.com/TharunGopal-Agraharam/Real-Time-Car-Accident-Detection-and-Emergency-Response-Using-Enhanced-YOLO>
 pip install -r requirements.tx
 
+```
+## **🎯 Usage**
+```bash
+python detect_accidents.py --source <video_source>
+```
+<video_source> can be a video file, camera ID, or stream URL.
+Receive real-time alerts when accidents are detected.
+
+**🔮 Future Enhancements**
+- **GPS & traffic system integration for faster emergency routing.**
+- **Mobile app notifications for nearby users.**
+- **Advanced collision severity classification.**
+
+**🤝 Contributing**
+- **Contributions are welcome! Open an issue or submit a pull request for bug fixes or feature requests.**
+
+**📄 License**
+- **This project is licensed under the MIT License – see the LICENSE file for details.**
+  
+   You can copy this **directly as `README.md`** and upload it to your GitHub repository.  
+
+   If you want, I can **also add a small diagram/flowchart** and embed it in this README to make it visually appealing for your repo.
