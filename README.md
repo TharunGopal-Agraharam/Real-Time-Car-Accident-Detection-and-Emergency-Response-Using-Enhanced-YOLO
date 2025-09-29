@@ -31,7 +31,7 @@ A **real-time car accident detection system** using an **enhanced YOLO model**, 
 
 ## 🚀 Installation
 ```bash
-git clone <repository_url>
-cd <project_folder>
+git clone <https://github.com/TharunGopal-Agraharam/Real-Time-Car-Accident-Detection-and-Emergency-Response-Using-Enhanced-YOLO>
+cd <https://github.com/TharunGopal-Agraharam/Real-Time-Car-Accident-Detection-and-Emergency-Response-Using-Enhanced-YOLO>
 pip install -r requirements.tx
 
