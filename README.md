@@ -1,9 +1,9 @@
-##Real-Time Car Accident Detection and Emergency Response using Enhanced YOLO
-##Overview
+**Real-Time Car Accident Detection and Emergency Response using Enhanced YOLO
+Overview**
 
 This project focuses on real-time detection of car accidents using an Enhanced YOLO (You Only Look Once) object detection model. The system is designed to identify accidents immediately and trigger emergency response protocols, such as notifying emergency services or sending alerts to nearby responders, thereby potentially reducing response time and saving lives.
 
-##Key Features
+**Key Features**
 
 Real-Time Accident Detection: Uses a custom-trained YOLO model to detect car accidents in live video streams or dashcam footage.
 
@@ -15,7 +15,7 @@ Data Logging: Stores detected events with timestamps for future analysis or repo
 
 User-Friendly Interface: Simple dashboard to monitor live feeds and detected incidents.
 
-##Technologies Used
+**Technologies Used**
 
 Programming Language: Python
 
@@ -27,7 +27,7 @@ Video Processing: OpenCV
 
 Geolocation & Notification: APIs for SMS, email, or app alerts
 
-##Installation
+**Installation**
 
 Clone the repository:
 
